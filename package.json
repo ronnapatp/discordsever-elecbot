@@ -1,0 +1,14 @@
+{
+  "name": "kaoladelectionbot",
+  "version": "1.0.0",
+  "description": "Hi I bored community election info",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ronnapatp bhira",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
